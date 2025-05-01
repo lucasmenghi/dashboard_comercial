@@ -1,0 +1,2 @@
+*.sql linguist-language=SQL
+*.dax linguist-language=DAX
